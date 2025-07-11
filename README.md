@@ -3,7 +3,7 @@
 This project demonstrates a pipeline for transforming YouTube video content into a searchable knowledge base using state-of-the-art AI tools:
 
 - 🎥 **YouTube Transcripts**: Extracts subtitles/transcripts from videos
-- 🧠 **Gemini AI**: Summarizes transcripts into key points using Google's Gemini
+- 🧠 **Gemini AI**: Summarizes transcripts into key points using Google's Gemini (gemini-2.5-flash)
 - 🗃️ **ChromaDB**: Stores summaries as embeddings for efficient semantic search
 
 ## 🔧 Technologies Used  
