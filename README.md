@@ -26,7 +26,7 @@ This project demonstrates a pipeline for transforming YouTube video content into
 ## 📁 Project Structure  
 - `notebook.ipynb` → Full end-to-end workflow.  
 - `requirements.txt` → List of dependencies.  
-- `.env` → API keys (e.g., Gemini).  
+- `.env` → API keys (Gemini Key).  
 
 ## 🧪 Usage  
 1. **Install dependencies**:  
